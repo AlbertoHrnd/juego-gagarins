@@ -1,4 +1,4 @@
-# Juego Gato PhoneGap
+# Juego Gagarins PhoneGap
 
     Desarrollado para el curso de Aplicaciones móviles
 
