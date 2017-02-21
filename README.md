@@ -1,6 +1,6 @@
 # Juego Gagarins PhoneGap
 
-    Desarrollado para el curso de Aplicaciones móviles
+    Ayuda a luchar contra la tiranía capitalista a ritmo de los Gagarin's 
 
 ### Desktop
 
